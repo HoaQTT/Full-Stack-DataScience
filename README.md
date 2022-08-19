@@ -1,7 +1,7 @@
 
-# **Project Solution- Statistical Learning**
+# **Meachine Learning**
 
-In the case of an insurance company, attributes of customers like the ones mentioned below can be crucial in making business decisions. Hence, knowing to explore and generate value out of such data can be an invaluable skill to have.
+https://www.canva.com/design/DAE5Q40MCU4/ttoLyo6IjG3NI6lRgj3K2g/view#1
 ## Authors
 
 - [@hoaqtt](https://github.com/)
