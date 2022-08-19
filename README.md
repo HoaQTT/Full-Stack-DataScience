@@ -2,7 +2,9 @@
 # **Machine Learning and AI**
 
 https://www.canva.com/design/DAE5Q40MCU4/ttoLyo6IjG3NI6lRgj3K2g/view#1
-We learn from our mistakes, we learn from experiences. Then we become better at what we do. It is the same thing with machine learning.
+- We learn from our mistakes, we learn from experiences. 
+- Then we become better at what we do. 
+- It is the same thing with machine learning.
 ## Authors
 
 - [@hoaqtt](https://github.com/)
