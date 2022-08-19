@@ -1,5 +1,5 @@
 
-# **Meachine Learning**
+# **Machine Learning and AI**
 
 https://www.canva.com/design/DAE5Q40MCU4/ttoLyo6IjG3NI6lRgj3K2g/view#1
 ## Authors
